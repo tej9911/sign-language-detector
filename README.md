@@ -2,11 +2,6 @@
 
 Welcome to the **Sign Language Detector** project! This Python-based tool leverages **OpenCV** and **Mediapipe** to detect and classify sign language gestures. Whether you're a developer, a student, or just curious about sign language recognition, this project is a great starting point to explore the world of computer vision and machine learning.
 
-## 🎥 Demo
-
-Check out the demo video to see the project in action:
-
-[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
 
 ## 🛠️ Installation
 
